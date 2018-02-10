@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4021553020656578}
   - component: {fileID: 212324178973695046}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_152 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4111141542350706}
   - component: {fileID: 212410406400417312}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_152 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52,7 +52,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4348556007922406}
   - component: {fileID: 212917126832618602}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_152 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68,7 +68,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4330521024425506}
   - component: {fileID: 212422277621622994}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_123 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84,7 +84,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4714622823227682}
   - component: {fileID: 212990186320469392}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_152 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -100,7 +100,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4557869868143658}
   - component: {fileID: 212480290207075048}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_152
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116,7 +116,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4471214227118486}
   - component: {fileID: 212912877849263362}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_152 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -132,7 +132,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4524712755478136}
   - component: {fileID: 212804248847531918}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_123 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148,7 +148,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4500535117228272}
   - component: {fileID: 61199742048154424}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground 3x3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -164,7 +164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4115645858607910}
   - component: {fileID: 212825638726207840}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sprites_123
   m_TagString: Untagged
   m_Icon: {fileID: 0}
