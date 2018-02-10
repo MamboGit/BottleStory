@@ -15,10 +15,16 @@ public class PlayerController : MonoBehaviour {
 
     public bool isGrounded;
 
+    public Vector3 respawnPosition;
+
+    public LevelManager theLevelManager;
+
     void Start () {
 
         myRigidbody = GetComponent<Rigidbody2D>();
+        theLevelManager = FindObjectOfType<LevelManager>();
 
+        respawnPosition = transform.position;
     }
 	
 	
@@ -56,11 +62,13 @@ public class PlayerController : MonoBehaviour {
     {
         if(other.tag == "KillPlane")
         {
-            gameObject.SetActive(false);
+            // gameObject.SetActive(false);
+            theLevelManager.Respawn();
+            //transform.position = respawnPosition;
         }
         if (other.tag == "Checkpoint")
         {
-            
+            respawnPosition = other.transform.position;
         }
     }
 
